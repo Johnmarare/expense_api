@@ -45,6 +45,8 @@ INSTALLED_APPS = [
 
     # Local apps
     'api',
+    'expenses',
+    'incomes',
 ]
 
 MIDDLEWARE = [
